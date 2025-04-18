@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/infinite-dungeon/static/css/main.e6c13ad2.css",
-    "main.js": "/infinite-dungeon/static/js/main.a2ece7f1.js",
+    "main.js": "/infinite-dungeon/static/js/main.c88ee74f.js",
     "static/js/453.1ff5866f.chunk.js": "/infinite-dungeon/static/js/453.1ff5866f.chunk.js",
     "index.html": "/infinite-dungeon/index.html",
     "main.e6c13ad2.css.map": "/infinite-dungeon/static/css/main.e6c13ad2.css.map",
-    "main.a2ece7f1.js.map": "/infinite-dungeon/static/js/main.a2ece7f1.js.map",
+    "main.c88ee74f.js.map": "/infinite-dungeon/static/js/main.c88ee74f.js.map",
     "453.1ff5866f.chunk.js.map": "/infinite-dungeon/static/js/453.1ff5866f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a2ece7f1.js"
+    "static/js/main.c88ee74f.js"
   ]
 }
